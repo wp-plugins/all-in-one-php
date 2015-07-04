@@ -38,6 +38,8 @@ See the plugin offical page.
 == Screenshots ==
 
 1. screen 1
+2. screen 2
+3. screen 3
 
 == Changelog ==
 
