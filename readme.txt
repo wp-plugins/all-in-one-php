@@ -37,9 +37,7 @@ See the plugin offical page.
 
 == Screenshots ==
 
-1  ] screenshots  1
-2  ] screenshots  2
-3  ] screenshots  3
+1. screen 1
 
 == Changelog ==
 
